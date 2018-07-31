@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="COMMERCIAL-LICENSE" type="Markdown" />
       <mapping ext="gsdl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
