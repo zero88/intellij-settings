@@ -21,8 +21,6 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
-    <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
-    <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
     <option name="JD_INDENT_ON_CONTINUATION" value="true" />
   </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
@@ -52,6 +50,7 @@
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="SPACE_BEFORE_ANNOTATION_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="RESOURCE_LIST_WRAP" value="5" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
