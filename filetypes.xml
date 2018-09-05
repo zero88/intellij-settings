@@ -9,6 +9,7 @@
       <mapping pattern="privatekey" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="gsdl" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
