@@ -11,10 +11,12 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
+      <mapping pattern="01_sql" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="a" type="JSON" />
       <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping pattern="01_ddl.sql" type="SQL" />
     </extensionMap>
   </component>
 </application>
