@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.java, *.xml, *.json, *.gradle, *.properties" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,8 +19,8 @@
     <mask>*.java, *.xml, *.json</mask>
     <mask>*.java, *.xml, *.json, *.gradle</mask>
     <mask>pom.xml</mask>
-    <mask>*.java, *.xml, *.json, *.gradle, *.properties</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.java, *.xml, *.json, *.gradle, *.properties</mask>
   </component>
 </application>
