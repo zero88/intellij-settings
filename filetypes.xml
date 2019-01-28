@@ -13,6 +13,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping pattern="01_sql" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.json.template" type="JSON" />
       <mapping pattern="a" type="JSON" />
