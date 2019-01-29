@@ -17,6 +17,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.json.template" type="JSON" />
       <mapping pattern="a" type="JSON" />
+      <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping pattern="01_ddl.sql" type="SQL" />
       <mapping pattern="*.xml.template" type="XML" />
