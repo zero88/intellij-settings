@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
@@ -18,6 +18,7 @@
       <mapping pattern="*.json.template" type="JSON" />
       <mapping pattern="a" type="JSON" />
       <mapping pattern="x" type="PLAIN_TEXT" />
+      <mapping ext="htpasswd" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping pattern="01_ddl.sql" type="SQL" />
       <mapping pattern="*.xml.template" type="XML" />
