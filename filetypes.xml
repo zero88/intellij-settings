@@ -20,8 +20,8 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.template" type="XML" />
-      <removed_mapping pattern="01_ddl.sql" approved="true" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="01_ddl.sql" approved="true" type="SQL" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping pattern="01_sql" approved="true" type="DBN-SQL" />
