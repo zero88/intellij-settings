@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T18:27:02</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-07-25T11:12:46</property>
+    <property name="modified">2019-08-03T07:25:55</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -490,7 +490,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
