@@ -10,6 +10,7 @@
     <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="useHollowFolders" value="false" />
     <option name="tabOpacity" value="48" />
     <option name="treeFontSize" value="13" />
