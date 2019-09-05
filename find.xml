@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../edge/module/datapoint/src/main/java/com/nubeiot/edge/module/datapoint/sync/DittoHttpSync.java [iot-engine.edge.module.datapoint.main]'" />
-    <option name="defaultScopeName" value="File '.../edge/module/datapoint/src/main/java/com/nubeiot/edge/module/datapoint/sync/DittoHttpSync.java [iot-engine.edge.module.datapoint.main]'" />
-    <option name="SEARCH_SCOPE" value="File '.../edge/module/datapoint/src/main/java/com/nubeiot/edge/module/datapoint/sync/DittoHttpSync.java [iot-engine.edge.module.datapoint.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
