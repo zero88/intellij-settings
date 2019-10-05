@@ -9,9 +9,11 @@
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
     <option name="rightTreeIndent" value="6" />
     <option name="tabsHeight" value="22" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="accentColor" value="f44336" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-7798640b:164eaf1082d:-8000" />
     <option name="version" value="4.5.1" />
   </component>
