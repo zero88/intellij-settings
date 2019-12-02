@@ -8,15 +8,17 @@
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
-    <option name="statusBarTheme" value="false" />
     <option name="useMaterialFont2" value="true" />
+    <option name="useHollowFolders" value="false" />
     <option name="tabOpacity" value="48" />
     <option name="treeFontSize" value="13" />
     <option name="tabFontSize" value="14" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="009123" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="secondAccentColor" value="44cb4d" />
+    <option name="highlightColor" value="009123" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="-7798640b:164eaf1082d:-8000" />
     <option name="version" value="4.10.0" />
