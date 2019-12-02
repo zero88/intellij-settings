@@ -4,7 +4,7 @@
     <property name="created">2018-07-30T18:27:02</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-12-02T17:34:48</property>
+    <property name="modified">2019-12-02T18:00:33</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -29,7 +29,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="282c34" />
-    <option name="FILESTATUS_ADDED" value="a9dc76" />
+    <option name="FILESTATUS_ADDED" value="9edc66" />
     <option name="FILESTATUS_COPIED" value="a9dc76" />
     <option name="FILESTATUS_DELETED" value="727072" />
     <option name="FILESTATUS_HIJACKED" value="ffd866" />
@@ -42,7 +42,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
-    <option name="FILESTATUS_MODIFIED" value="5fcb69" />
+    <option name="FILESTATUS_MODIFIED" value="ffdfae" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5fcb69" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5fcb69" />
     <option name="FILESTATUS_OBSOLETE" value="" />
@@ -52,7 +52,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f59762" />
     <option name="FILESTATUS_addedOutside" value="a9dc76" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
-    <option name="FILESTATUS_modifiedOutside" value="5fcb69" />
+    <option name="FILESTATUS_modifiedOutside" value="ffdfae" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="282c34" />
