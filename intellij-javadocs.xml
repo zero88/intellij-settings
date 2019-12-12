@@ -22,7 +22,7 @@
 &lt;#if element.typeParameters?has_content&gt;        * \n
 &lt;/#if&gt;
 &lt;#list element.typeParameters as typeParameter&gt;
-        * @param &lt;${typeParameter.name}&gt; the type parameter\n
+        * @param &lt;${typeParameter.name}&gt; Type of {@code parameter}\n
 &lt;/#list&gt;
 * @version 1.0.0
  */</VALUE>
