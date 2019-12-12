@@ -30,14 +30,14 @@
         <CLASS>
           <KEY>^.*(public|protected|private)*.+enum\s+\w+.*</KEY>
           <VALUE>/**\n
- * The enum ${name}.\n
+ * Represents for enum ${name}.\n
  * @since 1.0.0
  */</VALUE>
         </CLASS>
         <CLASS>
           <KEY>^.*(public|protected|private)*.+class\s+\w+.*</KEY>
           <VALUE>/**\n
- * The type ${name}.\n
+ * Represents for ${name}.\n
 &lt;#if element.typeParameters?has_content&gt;        * \n
 &lt;/#if&gt;
 &lt;#list element.typeParameters as typeParameter&gt;
