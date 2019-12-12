@@ -41,7 +41,7 @@
 &lt;#if element.typeParameters?has_content&gt;        * \n
 &lt;/#if&gt;
 &lt;#list element.typeParameters as typeParameter&gt;
-        * @param &lt;${typeParameter.name}&gt; the type parameter\n
+        * @param &lt;${typeParameter.name}&gt; Type of {@code parameter}\n
 &lt;/#list&gt;
  * @version 1.0.0
  */</VALUE>
@@ -71,7 +71,7 @@
 &lt;#list element.throwsList.referenceElements as exception&gt;
          * @throws ${exception.referenceName} the ${exceptionNames[exception.referenceName]}\n
 &lt;/#list&gt;
- * @version 1.0.0
+ * @since 1.0.0
  */</VALUE>
         </CONSTRUCTOR>
       </CONSTRUCTORS>
@@ -83,7 +83,7 @@
 &lt;#if element.typeParameters?has_content&gt;         * \n
 &lt;/#if&gt;
 &lt;#list element.typeParameters as typeParameter&gt;
-         * @param &lt;${typeParameter.name}&gt; the type parameter\n
+         * @param &lt;${typeParameter.name}&gt; Type of {@code parameter}\n
 &lt;/#list&gt;
 &lt;#if element.parameterList.parameters?has_content&gt;
          *\n
@@ -101,7 +101,7 @@
 &lt;#list element.throwsList.referenceElements as exception&gt;
          * @throws ${exception.referenceName} the ${exceptionNames[exception.referenceName]}\n
 &lt;/#list&gt;
- * @version 1.0.0
+ * @since 1.0.0
  */</VALUE>
         </METHOD>
         <METHOD>
@@ -111,7 +111,7 @@
 &lt;#if element.typeParameters?has_content&gt;         * \n
 &lt;/#if&gt;
 &lt;#list element.typeParameters as typeParameter&gt;
-         * @param &lt;${typeParameter.name}&gt; the type parameter\n
+         * @param &lt;${typeParameter.name}&gt; Type of {@code parameter}\n
 &lt;/#list&gt;
 &lt;#if element.parameterList.parameters?has_content&gt;
          *\n
@@ -129,7 +129,7 @@
 &lt;#list element.throwsList.referenceElements as exception&gt;
          * @throws ${exception.referenceName} the ${exceptionNames[exception.referenceName]}\n
 &lt;/#list&gt;
- * @version 1.0.0
+ * @since 1.0.0
  */</VALUE>
         </METHOD>
         <METHOD>
@@ -147,7 +147,7 @@
 &lt;#list element.throwsList.referenceElements as exception&gt;
          * @throws ${exception.referenceName} the ${exceptionNames[exception.referenceName]}\n
 &lt;/#list&gt;
- * @version 1.0.0
+ * @since 1.0.0
  */</VALUE>
         </METHOD>
         <METHOD>
@@ -157,7 +157,7 @@
 &lt;#if element.typeParameters?has_content&gt;         * \n
 &lt;/#if&gt;
 &lt;#list element.typeParameters as typeParameter&gt;
-         * @param &lt;${typeParameter.name}&gt; the type parameter\n
+         * @param &lt;${typeParameter.name}&gt; Type of {@code parameter}\n
 &lt;/#list&gt;
 &lt;#if element.parameterList.parameters?has_content&gt;
          *\n
@@ -175,7 +175,7 @@
 &lt;#list element.throwsList.referenceElements as exception&gt;
          * @throws ${exception.referenceName} the ${exceptionNames[exception.referenceName]}\n
 &lt;/#list&gt;
- * @version 1.0.0
+ * @since 1.0.0
  */</VALUE>
         </METHOD>
       </METHODS>
