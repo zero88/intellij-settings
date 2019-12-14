@@ -1,9 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="926" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="smoothScrolling" value="true" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
