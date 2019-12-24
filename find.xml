@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../core/micro/src/main/java/com/nubeiot/core/micro/register/EventHttpServiceRegister.java [com.nubeiot.core.iot-engine.core.micro.main]'" />
-    <option name="defaultScopeName" value="File '.../core/micro/src/main/java/com/nubeiot/core/micro/register/EventHttpServiceRegister.java [com.nubeiot.core.iot-engine.core.micro.main]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../core/micro/src/main/java/com/nubeiot/core/micro/register/EventHttpServiceRegister.java [com.nubeiot.core.iot-engine.core.micro.main]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
