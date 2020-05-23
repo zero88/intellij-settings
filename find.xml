@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -18,10 +20,9 @@
     <mask>*.java, *.xml, *.json</mask>
     <mask>*.java, *.xml, *.json, *.gradle</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.java, *.xml, *.json, *.gradle, *.properties</mask>
-    <mask>*.gradle</mask>
     <mask>*.yml</mask>
-    <mask>*gradle</mask>
+    <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
