@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
