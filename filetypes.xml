@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ImportExportRequester.ts" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
