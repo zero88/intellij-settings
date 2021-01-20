@@ -29,7 +29,7 @@
     <mask>*.ts, *.js, *.vue</mask>
     <mask>*.py</mask>
     <mask>*.toml</mask>
-    <mask>*.gradle</mask>
     <mask>*.java,*.gradle</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
