@@ -1,0 +1,16 @@
+<application>
+  <component name="Atom Icon Associations Config">
+    <option name="customFileAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value="^.+\.dkc\.(yml|yaml)$" />
+            <option name="pattern" value="^.+\.dkc\.(yml|yaml)$" />
+            <option name="name" value="MultipleDockerCompose" />
+            <option name="icon" value="docker.svg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+  </component>
+</application>
