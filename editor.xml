@@ -17,6 +17,9 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <filter name="FIXME">
       <pattern index="1" />
