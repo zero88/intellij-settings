@@ -5,6 +5,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
