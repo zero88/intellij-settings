@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.example" type=".env file" />
       <mapping pattern="VERSION" type="AUTO_DETECTED" />
+      <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
