@@ -67,13 +67,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Pipenv (qwe-vpn) interpreter library">
+    <library name="Pipenv (iot-vpn) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib64/python3.8" />
         <root url="file:///usr/lib64/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/qwe-vpn-QuxMaZyd/lib64/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/qwe-vpn-QuxMaZyd/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1600261429" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/iot-vpn-jTwf9b_O/lib64/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/iot-vpn-jTwf9b_O/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-468575025" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -85,9 +85,9 @@
       <SOURCES>
         <root url="file:///usr/lib64/python3.8" />
         <root url="file:///usr/lib64/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/qwe-vpn-QuxMaZyd/lib64/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.local/share/virtualenvs/qwe-vpn-QuxMaZyd/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/1600261429" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/iot-vpn-jTwf9b_O/lib64/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/iot-vpn-jTwf9b_O/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-468575025" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
