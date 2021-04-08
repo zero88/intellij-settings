@@ -5,6 +5,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -16,11 +17,12 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
+    <option name="indicatorStyle" value="None" />
     <option name="tabOpacity" value="48" />
     <option name="treeFontSize" value="13" />
     <option name="tabFontSize" value="14" />
     <option name="tabsHeight" value="24" />
-    <option name="accentColor" value="009123" />
+    <option name="accentColor" value="2979ff" />
     <option name="secondAccentColor" value="44cb4d" />
     <option name="highlightColor" value="009123" />
     <option name="selectedTheme" value="ONE_DARK" />

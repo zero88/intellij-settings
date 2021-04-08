@@ -5,14 +5,15 @@
       <mapping pattern="VERSION" type="AUTO_DETECTED" />
       <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="*.service.tmpl" type="Service unit configuration for systemd" />
       <removed_mapping pattern="*.dkc.yml" approved="true" type="Dockerfile" />
       <removed_mapping ext="env" approved="true" type="Env File" />
