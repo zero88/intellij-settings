@@ -29,6 +29,7 @@
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
+  <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
     <filter name="FIXME">
       <pattern index="1" />
