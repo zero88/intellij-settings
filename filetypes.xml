@@ -5,6 +5,8 @@
       <mapping pattern="VERSION" type="AUTO_DETECTED" />
       <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
       <mapping pattern="vpnc-deployer-cli" type="AUTO_DETECTED" />
+      <mapping pattern="vpnc-deployer-cli (1)" type="AUTO_DETECTED" />
+      <mapping pattern="out" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern="*.json.tmpl" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
