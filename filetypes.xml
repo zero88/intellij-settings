@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
-      <mapping pattern="VERSION" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping pattern="VERSION" type="AUTO_DETECTED" />
+      <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
       <mapping pattern="vpnc-deployer-cli" type="AUTO_DETECTED" />
       <mapping pattern="vpnc-deployer-cli (1)" type="AUTO_DETECTED" />
       <mapping pattern="out" type="AUTO_DETECTED" />
