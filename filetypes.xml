@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern="VERSION" type="AUTO_DETECTED" />
       <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
       <mapping pattern="vpnc-deployer-cli" type="AUTO_DETECTED" />
-      <mapping pattern=".dockerignore" type="GitIgnore file" />
+      <mapping pattern="VERSION" type="AUTO_DETECTED" />
       <mapping pattern="*.json.tmpl" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -22,6 +21,7 @@
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
     </extensionMap>
