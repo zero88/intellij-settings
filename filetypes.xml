@@ -14,6 +14,8 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
+      <mapping ext="jceks" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="*.service.tmpl" type="Service unit configuration for systemd" />
       <mapping pattern="*.hook.tmpl" type="Shell Script" />
