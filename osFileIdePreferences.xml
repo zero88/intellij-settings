@@ -2,6 +2,7 @@
   <component name="OSFileAssociationPreferences">
     <option name="fileTypeNames">
       <list>
+        <option value=".env file" />
         <option value="Dockerfile" />
       </list>
     </option>
