@@ -2,9 +2,10 @@
   <component name="OSFileAssociationPreferences">
     <option name="fileTypeNames">
       <list>
+        <option value=".env file" />
         <option value="Dockerfile" />
       </list>
     </option>
-    <option name="ideLocationHash" value="5FB143C435FF12D467333E96548B7FBB" />
+    <option name="ideLocationHash" value="877A556BC369EDEB40BDDD5DCA424AF6" />
   </component>
 </application>

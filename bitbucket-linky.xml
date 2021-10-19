@@ -1,0 +1,14 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="146628d5-c5a1-39e4-87ad-05842cf0b7b2" baseUri="https://bitbucket.lab.dynatrace.org/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.lab.dynatrace.org" port="-1" path="/" uuid="146628d5-c5a1-39e4-87ad-05842cf0b7b2" />
+    </lookup>
+  </component>
+  <component name="Instance" id="a97ba7ec-0609-4b29-894a-396a09a58b62" version="2021.2.188" />
+</application>
