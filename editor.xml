@@ -32,6 +32,8 @@
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="300" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
     <filter name="FIXME">
       <pattern index="1" />
     </filter>
