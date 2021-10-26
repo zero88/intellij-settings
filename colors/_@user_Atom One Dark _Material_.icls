@@ -3,7 +3,7 @@
     <property name="created">2021-07-28T09:49:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-10-20T09:40:54</property>
+    <property name="modified">2021-10-26T23:59:07</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <colors>
@@ -3575,8 +3575,8 @@
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
+    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
