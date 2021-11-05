@@ -26,6 +26,14 @@
         <option value="JAVA.chain.hints" />
       </set>
     </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForShorthandFunctions" value="true" />
+        </Settings>
+      </JavaScript.js.type.hints>
+    </settingsMapElement>
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
