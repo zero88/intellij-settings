@@ -3,5 +3,6 @@
     <option name="myCopyOnSelection" value="true" />
     <option name="myShellPath" value="C:\Program Files\PowerShell\7\pwsh.exe" />
     <option name="myTabName" value="Local" />
+    <option name="useOptionAsMetaKey" value="true" />
   </component>
 </application>
