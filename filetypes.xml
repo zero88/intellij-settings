@@ -9,17 +9,17 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="pfx" type="Native" />
       <mapping ext="jks" type="Native" />
+      <mapping ext="pfx" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="jceks" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="jceks" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping pattern="*.service.tmpl" type="Service unit configuration for systemd" />
       <mapping pattern="*.hook.tmpl" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
