@@ -1,36 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
-      <mapping pattern="vpnc-deployer-cli" type="AUTO_DETECTED" />
-      <mapping pattern="VERSION" type="AUTO_DETECTED" />
-      <mapping pattern="*.json.tmpl" type="JSON" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="jks" type="Native" />
-      <mapping ext="pfx" type="Native" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="sum" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="jceks" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping pattern="*.service.tmpl" type="Service unit configuration for systemd" />
-      <mapping pattern="*.hook.tmpl" type="Shell Script" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping pattern="*.dkc.yml" approved="true" type="Dockerfile" />
-      <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env" approved="true" type="Env File" />
-      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
     </extensionMap>
   </component>
 </application>
