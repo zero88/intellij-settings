@@ -4,6 +4,7 @@
       <list>
         <option value="/data/projects/opensources" />
         <option value="/data/projects/community" />
+        <option value="$USER_HOME$/projects/zero88" />
       </list>
     </option>
   </component>
