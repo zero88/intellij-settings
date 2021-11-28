@@ -16,10 +16,11 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="jceks" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="*.service.tmpl" type="Service unit configuration for systemd" />
       <mapping pattern="*.hook.tmpl" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -29,7 +30,6 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
-      <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
