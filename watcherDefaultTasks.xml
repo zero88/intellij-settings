@@ -19,7 +19,7 @@
         </array>
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/data/projects/playio/cra/node_modules/.bin/lessc" />
+      <option name="program" value="/data/projects/playio/tikio/node_modules/.bin/lessc" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
