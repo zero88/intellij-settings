@@ -6,6 +6,7 @@
       <mapping pattern="vpnc-deployer-cli" type="AUTO_DETECTED" />
       <mapping pattern="VERSION" type="AUTO_DETECTED" />
       <mapping pattern="*.json.tmpl" type="JSON" />
+      <mapping pattern=".parcelrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
