@@ -466,6 +466,10 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("call", "select", "update").definedInClass("org.davidmoten.rx.jdbc.Database"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("call", "select", "update").definedInClass("org.davidmoten.rx.jdbc.TransactedBuilder"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL select/delete</display-name>
+      <place disabled="true"><![CDATA[jsLiteral().withStringValueIgnoringInterpolations(string().matchesBrics(" *(SELECT|DELETE) .*FROM .*"))]]></place>
+    </injection>
     <injection language="SQLite" injector-id="js">
       <display-name>flash.data (SQLite)</display-name>
       <place><![CDATA[jsLiteral().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
