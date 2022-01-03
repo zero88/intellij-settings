@@ -45,7 +45,7 @@
         <option value="JAVA.chain.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+    <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
