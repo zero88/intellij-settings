@@ -14,6 +14,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="jks" type="Native" />
       <mapping ext="pfx" type="Native" />
+      <mapping ext="asc" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
