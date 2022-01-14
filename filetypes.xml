@@ -2,13 +2,14 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".env.example" type=".env file" />
-      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
       <mapping pattern="vpnc-deployer-cli" type="AUTO_DETECTED" />
       <mapping pattern="VERSION" type="AUTO_DETECTED" />
+      <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="dhclient-qweio-up-hooks.sh" type="AUTO_DETECTED" />
       <mapping pattern="*.json.tmpl" type="JSON" />
       <mapping pattern=".terserrc" type="JSON" />
       <mapping pattern=".parcelrc" type="JSON" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -21,8 +22,8 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="jceks" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="jceks" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
