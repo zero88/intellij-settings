@@ -11,9 +11,4 @@
     </lookup>
   </component>
   <component name="Instance" id="a97ba7ec-0609-4b29-894a-396a09a58b62" version="2021.3.195" />
-  <component name="UsageLog">
-    <event name="OpenCommit" place="ICON_NAVIGATION_SECONDARY_BUTTON" timestamp="2022-03-18T08:20:15.446387Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
