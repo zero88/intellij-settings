@@ -43,6 +43,7 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="JAVA.chain.hints" />
+        <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
